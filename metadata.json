@@ -1,0 +1,6 @@
+{
+  "name": "SMS Spam Detector",
+  "description": "Phân loại tin nhắn rác bằng học máy - Demo báo cáo bài tập lớn môn Nhập môn Học máy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
